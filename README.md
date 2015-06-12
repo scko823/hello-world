@@ -1,3 +1,3 @@
 # hello-world
-my first repo\n
+my first repo
 i am new to this...
